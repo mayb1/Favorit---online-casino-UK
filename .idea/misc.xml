@@ -3,11 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Workit/0_ShablonSeroiChasti/app/src/main/res/layout/activity_game.xml" value="0.27291666666666664" />
+        <entry key="..\:/Workit/0_ShablonSeroiChasti/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Workit/Favbet - online casino/app/src/main/res/layout/fragment_fav_baraban.xml" value="0.27291666666666664" />
+        <entry key="..\:/Workit/Favbet - online casino/app/src/main/res/layout/fragment_fav_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Workit/Favbet - online casino/app/src/main/res/layout/fragment_fav_p_p.xml" value="0.25" />
+        <entry key="..\:/Workit/Favbet - online casino/app/src/main/res/layout/fragment_fave_choose_balance.xml" value="0.27291666666666664" />
+        <entry key="..\:/Workit/MostOnlineCasino777/app/src/main/res/layout/activity_game.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/MostOnlineCasino777/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/MostOnlineCasino777/app/src/main/res/layout/fragment_game_rou.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/MostOnlineCasino777/app/src/main/res/layout/fragment_menu_rou.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/MostOnlineCasino777/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.2895397489539749" />
+        <entry key="..\:/Workit/MostOnlineCasino777/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17760416666666667" />
+        <entry key="..\:/Workit/TestAppArt/app/src/main/res/layout/activity_game.xml" value="0.36666666666666664" />
         <entry key="..\:/Workit/TestAppArt/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/TestAppArt/app/src/main/res/layout/fragment_game_rou.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/TestAppArt/app/src/main/res/layout/fragment_menu_rou.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/TestAppArt/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workit/Vulkan - Slots and online Casino/app/src/main/res/layout/fragment_menu_rou.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

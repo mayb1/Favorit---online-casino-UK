@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".FaveChooseBalanceFragment">
+
+    <TextView
+        android:id="@+id/tvText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/sourcesansprosemibold"
+        android:gravity="center"
+        android:text="Choose your balance"
+        android:textColor="#F4EFEF"
+        android:textSize="49sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@+id/bStartFavGame"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvText">
+
+        <RadioButton
+            android:id="@+id/rbPoints5000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sourcesansproregular"
+            android:text="Points : 5000"
+            android:textColor="#C33066"
+            android:textSize="35sp" />
+
+        <RadioButton
+            android:id="@+id/rbPoints7500"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sourcesansproregular"
+            android:text="Points : 7500"
+            android:textColor="#C33066"
+            android:textSize="35sp" />
+
+        <RadioButton
+            android:id="@+id/rbPoints10000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sourcesansproregular"
+            android:text="Points : 10000"
+            android:textColor="#C33066"
+            android:textSize="35sp" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/bStartFavGame"
+        android:layout_width="274dp"
+        android:layout_height="74dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/button1"
+        android:fontFamily="@font/sourcesansprosemibold"
+        android:text="Start Game"
+        android:textAllCaps="false"
+        android:textColor="#C33066"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
